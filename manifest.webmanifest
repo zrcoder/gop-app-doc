@@ -1,0 +1,22 @@
+{
+  "short_name": "GO+ APP Docs",
+  "name": "GO+ APP Docs",
+  "description": "",
+  "icons": [
+    {
+      "src": "/web/static/images/calf.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "scope": "/",
+  "start_url": "/",
+  "background_color": "#2d2c2c",
+  "theme_color": "#2d2c2c",
+  "display": "standalone"
+}
